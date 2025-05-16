@@ -1,0 +1,766 @@
+offer_id,skill_name,skill_level,skill_level_name
+0,Deep Learning,5,Master
+0,PyTorch,4,Advanced
+0,TensorFlow,4,Advanced
+0,Python,4,Advanced
+0,SciPy scikit-learn,3,Regular
+0,MLflow,3,Regular
+0,Pandas,3,Regular
+0,OpenCV,3,Regular
+0,Keras Numpy,3,Regular
+0,PyVista,1,Nice To Have
+1,Machine Learning,3,Regular
+1,AI,3,Regular
+1,TensorFlow,3,Regular
+1,Python,3,Regular
+2,AI,4,Advanced
+2,.NET C#,4,Advanced
+2,Python,4,Advanced
+2,CI/CD,4,Advanced
+2,Cloud,3,Regular
+2,DevOps,1,Nice To Have
+3,English,4,Advanced
+3,Python,4,Advanced
+3,AI,3,Regular
+3,Machine Learning,3,Regular
+3,Large Language Model,3,Regular
+3,Docker,3,Regular
+3,CI/CD,3,Regular
+3,Natural Language Processing,1,Nice To Have
+4,MLOps,5,Master
+4,Python,4,Advanced
+4,Azure,4,Advanced
+4,Databricks,4,Advanced
+4,SQL,4,Advanced
+5,Machine Learning,3,Regular
+5,Python,3,Regular
+5,TensorFlow,3,Regular
+5,PyTorch,3,Regular
+5,scikit-learn,3,Regular
+5,Apache Spark,3,Regular
+5,Hadoop,3,Regular
+5,Amazon SageMaker,3,Regular
+5,Google Cloud AI Platform,3,Regular
+6,English,4,Advanced
+6,TypeScript,3,Regular
+6,HTML5 / CSS3,3,Regular
+6,Node.js,3,Regular
+6,AI,3,Regular
+6,Docker,3,Regular
+6,JavaScript,3,Regular
+7,Python,5,Master
+7,Microsoft Azure,4,Advanced
+7,AI,4,Advanced
+7,SQL,4,Advanced
+7,DevOps tools,3,Regular
+8,Python,3,Regular
+8,C#,3,Regular
+8,.Net,3,Regular
+8,AI/ML,3,Regular
+8,TensorFlow,3,Regular
+8,PyTorch,3,Regular
+8,R,3,Regular
+9,LLM,3,Regular
+9,AI,3,Regular
+9,RPA/IPaaS,1,Nice To Have
+9,JavaScript/Python,1,Nice To Have
+10,C++,3,Regular
+10,LLM,3,Regular
+10,Gradle,3,Regular
+10,Release Engineering,3,Regular
+10,Machine Learning,3,Regular
+11,CI/CD,4,Advanced
+11,GitHub,4,Advanced
+11,Python,4,Advanced
+11,AI,4,Advanced
+11,ETL,4,Advanced
+11,Azure,4,Advanced
+11,Scrum,4,Advanced
+11,Docker,4,Advanced
+11,Kubermetes,4,Advanced
+12,LLM,3,Regular
+12,AI,3,Regular
+12,Docker,3,Regular
+12,rag,3,Regular
+12,Kubernetes,3,Regular
+12,SQL,3,Regular
+12,Python,3,Regular
+12,NoSQL,3,Regular
+12,Java,2,Junior
+13,AWS,3,Regular
+13,PyTorch,3,Regular
+13,scikit learn,3,Regular
+13,NumPy,3,Regular
+13,Docker,3,Regular
+13,Kubernetes,3,Regular
+13,Pandas,3,Regular
+14,Architecture,4,Advanced
+14,Software Development,4,Advanced
+14,Leadership,4,Advanced
+14,Vertex AI,4,Advanced
+14,AI,4,Advanced
+14,Data,3,Regular
+15,C#,3,Regular
+15,MS Azure,3,Regular
+15,ASP.NET,3,Regular
+15,DDD,3,Regular
+15,Onion Architecture,3,Regular
+15,TDD,3,Regular
+16,Machine Learning,4,Advanced
+16,LLM,4,Advanced
+16,Cloud,4,Advanced
+16,AI,4,Advanced
+16,Python,4,Advanced
+16,Data Science,4,Advanced
+16,Computer Vision,3,Regular
+17,Data Annotation,5,Master
+17,Data Labeling,5,Master
+17,Ukrainian,5,Master
+17,English,4,Advanced
+17,Machine Learning,3,Regular
+17,Artificial Intelligence,3,Regular
+18,Machine Learning,4,Advanced
+18,LLM,4,Advanced
+18,Cloud,4,Advanced
+18,AI,4,Advanced
+18,Team Management,4,Advanced
+18,Python,4,Advanced
+18,Data Science,4,Advanced
+18,Computer Vision,3,Regular
+19,AI,1,Nice To Have
+19,Machine Learning,1,Nice To Have
+20,Machine Learning,4,Advanced
+20,Python,3,Regular
+20,Big Data,1,Nice To Have
+21,Python,4,Advanced
+21,Autogen,4,Advanced
+21,Langgraph,4,Advanced
+21,Crew.AI,4,Advanced
+21,Langchain,4,Advanced
+21,AWS AI Foundry,4,Advanced
+21,Amazon Bedrock,4,Advanced
+22,Machine Learning,4,Advanced
+22,Software Development,4,Advanced
+22,Python,4,Advanced
+22,Java,4,Advanced
+22,JavaScript,4,Advanced
+22,C++,4,Advanced
+23,Azure,4,Advanced
+23,Spark,3,Regular
+23,Hadoop,3,Regular
+23,Machine Learning,3,Regular
+23,Data Science,3,Regular
+24,Python,3,Regular
+24,Pandas,3,Regular
+24,NumPy,3,Regular
+24,SQL,3,Regular
+24,NLP,1,Nice To Have
+24,Java,1,Nice To Have
+24,C#,1,Nice To Have
+25,AI,4,Advanced
+25,Docker,4,Advanced
+25,ML,4,Advanced
+25,Kubernetes,4,Advanced
+25,Python,4,Advanced
+25,Azure,3,Regular
+25,API,3,Regular
+26,AI,5,Master
+26,Python,5,Master
+26,Redis,4,Advanced
+26,asyncio,4,Advanced
+26,RabbitMQ,4,Advanced
+26,Docker,4,Advanced
+26,Kafka,4,Advanced
+26,SQL,4,Advanced
+26,Cassandra,4,Advanced
+26,NoSQL,4,Advanced
+27,Computer Vision,4,Advanced
+27,AI,4,Advanced
+27,Azure,4,Advanced
+27,Python,4,Advanced
+27,Docker,3,Regular
+27,Kubernetes,3,Regular
+27,Data Science,3,Regular
+27,Java,1,Nice To Have
+27,Big Data,1,Nice To Have
+28,Python,4,Advanced
+28,Apache Spark,4,Advanced
+28,SQL,4,Advanced
+28,Data Science,4,Advanced
+28,Ray,1,Nice To Have
+28,Deep Learning,1,Nice To Have
+29,Machine Learning,4,Advanced
+29,PyTorch,4,Advanced
+29,scikit-learn,4,Advanced
+29,TensorFlow,4,Advanced
+29,Python,4,Advanced
+30,C#,3,Regular
+30,PostgreSQL,3,Regular
+30,.Net Framework,3,Regular
+30,Azure,3,Regular
+30,REST API,3,Regular
+30,MS SQL,3,Regular
+30,Python,3,Regular
+31,English,Nan,B2
+31,GenAI,4,Advanced
+31,Azure,4,Advanced
+31,Python,4,Advanced
+31,MLOps,4,Advanced
+31,Databricks,4,Advanced
+32,C#,4,Advanced
+32,HTML,4,Advanced
+32,.Net,4,Advanced
+32,CSS,4,Advanced
+32,JavaScript,4,Advanced
+32,Cloud,3,Regular
+32,RESTful API,3,Regular
+32,Blazor,1,Nice To Have
+32,Telerik,1,Nice To Have
+32,Python,1,Nice To Have
+33,Git,3,Regular
+33,Bash,3,Regular
+33,PyTorch,3,Regular
+33,AI,3,Regular
+33,Docker,3,Regular
+33,Python,3,Regular
+34,English,Nan,C1
+34,Machine Learning,4,Advanced
+34,AWS,4,Advanced
+34,TypeScript,4,Advanced
+34,AI,4,Advanced
+34,Azure,4,Advanced
+34,Snowflake,4,Advanced
+34,JavaScript,4,Advanced
+34,Python,4,Advanced
+34,Docker,3,Regular
+34,Kubernetes,3,Regular
+35,Machine Learning,5,Master
+35,NLP,4,Advanced
+35,Computer Vision,4,Advanced
+35,Python,4,Advanced
+36,AI,5,Master
+36,Machine Learning,4,Advanced
+36,NLP,4,Advanced
+36,LLM,3,Regular
+36,Azure,3,Regular
+36,OpenAI,3,Regular
+37,Machine Learning,4,Advanced
+37,AI,4,Advanced
+37,Hadoop,4,Advanced
+37,Apache,4,Advanced
+37,Python,4,Advanced
+37,Apache Spark,4,Advanced
+37,T-SQL,3,Regular
+37,PL/SQL,3,Regular
+38,Python,4,Advanced
+38,API,4,Advanced
+38,fastapi,4,Advanced
+38,Machine Learning,4,Advanced
+38,Flask,3,Regular
+38,Django,3,Regular
+38,TensorFlow,3,Regular
+38,Docker,3,Regular
+38,Cloud,3,Regular
+38,AWS,3,Regular
+39,Python,5,Master
+39,Machine Learning,5,Master
+39,TensorFlow,5,Master
+39,PyTorch,5,Master
+40,Deep Learning,5,Master
+40,PyTorch,4,Advanced
+40,TensorFlow,4,Advanced
+40,Python,4,Advanced
+40,SciPy scikit-learn,3,Regular
+40,MLflow,3,Regular
+40,Pandas,3,Regular
+40,OpenCV,3,Regular
+40,Keras Numpy,3,Regular
+40,PyVista,1,Nice To Have
+41,Python,4,Advanced
+41,LLM,3,Regular
+41,NLP,3,Regular
+41,Azure,2,Junior
+41,GCP,2,Junior
+41,Databricks,1,Nice To Have
+42,Computer Vision,4,Advanced
+42,PyTorch,4,Advanced
+42,OpenCV,4,Advanced
+42,Python,4,Advanced
+42,AWS,3,Regular
+42,Agile,3,Regular
+42,vSLAM,1,Nice To Have
+43,C/C++,2,Junior
+43,Graphics APIs: OpenGL / OpenGL ES / EGL / Vulkan,2,Junior
+43,Python,2,Junior
+43,Platforms: Android /Linux /Windows / Embedded MCU,2,Junior
+44,Python,4,Advanced
+44,Computer Vision,3,Regular
+44,GenAI,3,Regular
+44,Azure,2,Junior
+44,GCP,2,Junior
+45,AI platform,3,Regular
+45,Machine Learning,3,Regular
+45,AI,3,Regular
+46,Machine Learning,3,Regular
+46,AI,3,Regular
+46,Analytics,3,Regular
+46,SQL,3,Regular
+46,Python,3,Regular
+46,Przetwarzanie Danych,3,Regular
+46,Analityka Biznesowa,3,Regular
+46,Analityka Predykcyjna,3,Regular
+47,English,Nan,C1
+47,Polish,Nan,B2
+47,Graph Machine Learning,4,Advanced
+47,Deep Learning,4,Advanced
+47,Python,3,Regular
+47,Machine Learning,3,Regular
+47,R&D experience,3,Regular
+47,AI apps for drug discovery,1,Nice To Have
+48,Machine Learning,3,Regular
+48,Java,3,Regular
+48,C++,3,Regular
+48,AI,3,Regular
+48,Gradle,3,Regular
+48,Python,3,Regular
+49,Machine Learning,4,Advanced
+49,Team Management,4,Advanced
+49,Project Management,4,Advanced
+49,Python,4,Advanced
+49,Generative AI,4,Advanced
+49,Data Science,4,Advanced
+49,Big Data,4,Advanced
+50,Python,5,Master
+50,Machine Learning,4,Advanced
+50,SQL,3,Regular
+50,Data Science,3,Regular
+51,GCP,4,Advanced
+51,Cloud Adoption Framework,3,Regular
+51,Cloud Foundation Toolkit,3,Regular
+52,GenAI,4,Advanced
+52,Microsoft Azure,4,Advanced
+52,AI/ML Analytics,4,Advanced
+52,NLP,4,Advanced
+52,C++,4,Advanced
+52,LLMs,4,Advanced
+52,PyTorch,4,Advanced
+52,TensorFlow,4,Advanced
+52,JavaScript,4,Advanced
+52,Python,4,Advanced
+53,Python,4,Advanced
+53,Docker,3,Regular
+53,Azure,3,Regular
+53,GenerativeAI,3,Regular
+54,Python,4,Advanced
+54,rag,3,Regular
+54,Prompt Engineering,3,Regular
+54,Langchain,3,Regular
+54,Langgraph,3,Regular
+54,Pandas,3,Regular
+54,Azure,3,Regular
+55,Machine Learning,5,Master
+55,Python,5,Master
+55,Data Science,5,Master
+55,PySpark,4,Advanced
+55,Azure,3,Regular
+55,Databricks,3,Regular
+56,GenAI,3,Regular
+56,Cloud,3,Regular
+56,Java,3,Regular
+56,Python,3,Regular
+56,MLOps,3,Regular
+57,English,Nan,B2
+57,Danish,Nan,B1
+57,Machine Learning,3,Regular
+57,AI,3,Regular
+58,English,Nan,B2
+58,Java,4,Advanced
+58,NLP,4,Advanced
+58,Python,4,Advanced
+59,English,Nan,C1
+59,Python,5,Master
+59,Databricks,5,Master
+59,Cloud,5,Master
+59,Spark,3,Regular
+59,PySpark,3,Regular
+60,Python,3,Regular
+60,GenAI,2,Junior
+60,Spark/PySpark,2,Junior
+60,LLM/ML/AI,2,Junior
+60,Azure,2,Junior
+60,Databricks,2,Junior
+61,Machine Learning,4,Advanced
+61,LLM,4,Advanced
+61,Cloud,4,Advanced
+61,AI,4,Advanced
+61,Python,4,Advanced
+61,Data Science,4,Advanced
+61,Computer Vision,3,Regular
+62,Python,2,Junior
+62,Machine Learning,1,Nice To Have
+62,AWS,1,Nice To Have
+62,SQL,1,Nice To Have
+62,GitHub,1,Nice To Have
+63,Python,5,Master
+63,Azure,4,Advanced
+63,Databricks,4,Advanced
+63,MLOps,4,Advanced
+63,DevOps,3,Regular
+63,ML/AI,3,Regular
+63,Spark,2,Junior
+63,Scala,1,Nice To Have
+64,Polish,Nan,B2
+64,English,Nan,C1
+64,Python,4,Advanced
+64,LLM,3,Regular
+64,AI,3,Regular
+64,AWS,1,Nice To Have
+64,Data Warehousing,1,Nice To Have
+64,GCP,1,Nice To Have
+65,Polish,Nan,B2
+65,English,Nan,B2
+65,AI,4,Advanced
+65,Python,4,Advanced
+65,LLM,3,Regular
+65,rag,3,Regular
+65,NoSQL,3,Regular
+66,AI,5,Master
+66,Python,5,Master
+66,AWS,4,Advanced
+66,OpenAI API,4,Advanced
+66,fastapi,4,Advanced
+66,REST API,3,Regular
+66,Langchain,3,Regular
+66,Hugging Face,3,Regular
+66,Datadog,2,Junior
+66,Jenkins,2,Junior
+67,English,Nan,B2
+67,GenAI,3,Regular
+67,AzureML,3,Regular
+67,AzureAI,3,Regular
+67,Python,3,Regular
+67,Databricks,3,Regular
+68,Machine Learning,4,Advanced
+68,Python,3,Regular
+68,Databases,3,Regular
+68,Data Warehousing,3,Regular
+68,Big Data,3,Regular
+68,Cloud,3,Regular
+68,R,1,Nice To Have
+69,VBA,3,Regular
+69,Data,3,Regular
+69,Analytics,3,Regular
+69,Excel APIs,3,Regular
+69,Python,3,Regular
+69,Microsoft Office Excel,3,Regular
+69,Machine Learning,1,Nice To Have
+70,NLP,4,Advanced
+70,Python,4,Advanced
+70,Git,3,Regular
+70,SQL,3,Regular
+71,AI,3,Regular
+71,Python,3,Regular
+72,English,Nan,C1
+72,Machine Learning,4,Advanced
+72,AWS,4,Advanced
+72,TypeScript,4,Advanced
+72,AI,4,Advanced
+72,Azure,4,Advanced
+72,Kubernetes,4,Advanced
+72,Snowflake,4,Advanced
+72,JavaScript,4,Advanced
+72,Python,4,Advanced
+72,Salesforce,3,Regular
+73,English,Nan,B2
+73,React,4,Advanced
+73,Next.js,4,Advanced
+73,TypeScript,4,Advanced
+73,AI/LLMs,4,Advanced
+73,Node.js,4,Advanced
+74,CI/CD,4,Advanced
+74,Angular,4,Advanced
+74,Aurelia,4,Advanced
+74,React,4,Advanced
+74,JavaScript,4,Advanced
+74,TypeScript,4,Advanced
+74,AI,1,Nice To Have
+75,Python,4,Advanced
+75,Azure,4,Advanced
+75,Azure AI foundry,3,Regular
+75,GenAI,3,Regular
+75,NLP,3,Regular
+76,PyTorch,3,Regular
+76,TensorFlow,3,Regular
+76,Langchain,3,Regular
+76,LLM,3,Regular
+76,MLOps,3,Regular
+76,CI/CD,3,Regular
+76,AWS,3,Regular
+76,Azure,3,Regular
+77,Machine Learning,1,Nice To Have
+77,DevOps,1,Nice To Have
+77,Cloud,1,Nice To Have
+77,CI/CD,1,Nice To Have
+77,Angular,1,Nice To Have
+77,AI,1,Nice To Have
+77,Java,1,Nice To Have
+77,JavaScript,1,Nice To Have
+77,Python,1,Nice To Have
+78,Computer Vision,4,Advanced
+78,PyTorch,4,Advanced
+78,OpenCV,4,Advanced
+78,Python,4,Advanced
+78,AWS,3,Regular
+78,Agile,3,Regular
+78,vSLAM,1,Nice To Have
+79,LLM,3,Regular
+79,Docker,3,Regular
+79,Kubernetes,3,Regular
+79,Python,3,Regular
+80,Machine Learning,3,Regular
+80,Jupyter Notebook,3,Regular
+80,AI,3,Regular
+80,SciPy,3,Regular
+80,NumPy,3,Regular
+80,TensorFlow,3,Regular
+80,Python,3,Regular
+80,MLflow,2,Junior
+80,Pandas,2,Junior
+80,PyTorch,1,Nice To Have
+81,NLP,4,Advanced
+81,LLMs,4,Advanced
+81,Python,4,Advanced
+81,AI,3,Regular
+82,Airflow,4,Advanced
+82,Python,4,Advanced
+82,CI/CD,3,Regular
+82,Spark,3,Regular
+82,Azure,3,Regular
+82,Azure ML,2,Junior
+82,Docker,2,Junior
+82,ML,2,Junior
+82,Terraform,2,Junior
+82,Kubernetes,2,Junior
+83,AI,4,Advanced
+83,English,4,Advanced
+83,Business Analysis,3,Regular
+84,SQL,4,Advanced
+84,Python,4,Advanced
+84,Git,3,Regular
+84,scikit-learn,3,Regular
+85,GenAI,3,Regular
+85,Cloud,3,Regular
+85,Java,3,Regular
+85,Python,3,Regular
+85,MLOps,3,Regular
+86,TypeScript,3,Regular
+86,Express.js,3,Regular
+86,Scrum,3,Regular
+86,React,3,Regular
+86,JavaScript,3,Regular
+87,NLP,5,Master
+87,LLM,5,Master
+88,AI/ML,4,Advanced
+88,LLM,4,Advanced
+88,Cloud,4,Advanced
+88,Python,3,Regular
+88,CI/CD,3,Regular
+89,ML,4,Advanced
+89,PyTorch,3,Regular
+89,TensorFlow,3,Regular
+89,Pandas,3,Regular
+89,NLP,2,Junior
+89,Microsoft Azure Cloud,1,Nice To Have
+89,HugginFace,1,Nice To Have
+89,OpenCV,1,Nice To Have
+89,scikit-learn,1,Nice To Have
+90,Kofax RPA,3,Regular
+90,ChatGPT,3,Regular
+90,Python,3,Regular
+90,R,3,Regular
+90,SQL,3,Regular
+90,UI Path,2,Junior
+90,Blue Prism,2,Junior
+91,Kedro,4,Advanced
+91,Python 3,4,Advanced
+91,CI/CD pipelines,4,Advanced
+91,Spark,4,Advanced
+91,Airflow,1,Nice To Have
+91,Django,1,Nice To Have
+91,Docker,1,Nice To Have
+91,Kubernetes,1,Nice To Have
+91,Databricks,1,Nice To Have
+92,Databases,4,Advanced
+92,Python,4,Advanced
+92,NLP,3,Regular
+92,LLM,3,Regular
+92,OpenAI,3,Regular
+92,MLOps,3,Regular
+92,Docker,2,Junior
+92,Kubernetes,2,Junior
+92,AWS,1,Nice To Have
+92,Computer Vision,1,Nice To Have
+93,Python,5,Master
+93,AWS,4,Advanced
+93,AI,4,Advanced
+93,Data Science,4,Advanced
+93,NLP,3,Regular
+93,LLM,3,Regular
+93,Docker,3,Regular
+94,Machine Learning,3,Regular
+94,DevOps,3,Regular
+94,Python,3,Regular
+94,Bash,3,Regular
+94,CI/CD,3,Regular
+94,Docker,3,Regular
+94,Kubernetes,3,Regular
+94,AWS,3,Regular
+94,Azure,3,Regular
+94,Prometheus,3,Regular
+95,Machine Learning,5,Master
+95,AI,5,Master
+95,Python,5,Master
+95,NumPy,4,Advanced
+95,TensorFlow,4,Advanced
+95,Keras,4,Advanced
+95,jupyther notebook,3,Regular
+95,scikit-learn,3,Regular
+95,SciPy,3,Regular
+95,Pandas,3,Regular
+96,AI,3,Regular
+96,XML,3,Regular
+96,NLP,3,Regular
+96,Deep Learning,3,Regular
+96,GitHub,2,Junior
+96,GitLab,2,Junior
+96,ETL tools,2,Junior
+97,Business Analysis,4,Advanced
+97,AI,3,Regular
+97,Scrum,3,Regular
+98,AI,5,Master
+98,Python,5,Master
+98,CI/CD,4,Advanced
+99,AI,4,Advanced
+99,GenAI,4,Advanced
+99,TensorFlow,4,Advanced
+99,PyTorch,4,Advanced
+99,Ajax,4,Advanced
+99,LLM,4,Advanced
+99,Amazon AWS,4,Advanced
+100,Architecture,3,Regular
+100,AI,3,Regular
+100,Software Architecture,3,Regular
+100,Azure,2,Junior
+100,Enterprise Architect,2,Junior
+101,AI,4,Advanced
+101,ML,4,Advanced
+101,GenAI,4,Advanced
+101,Python,4,Advanced
+101,LLM,4,Advanced
+102,PyTorch,5,Master
+102,TensorFlow,5,Master
+102,Python,5,Master
+102,C++,3,Regular
+103,AI,4,Advanced
+103,.NET C#,4,Advanced
+103,Python,4,Advanced
+103,CI/CD,4,Advanced
+103,Cloud,3,Regular
+103,DevOps,1,Nice To Have
+104,Python,3,Regular
+104,fastapi,3,Regular
+104,rag,3,Regular
+104,Prompt Engineering,3,Regular
+104,OpenAI,3,Regular
+104,Hugging Face,3,Regular
+104,Vector Database,3,Regular
+105,AI,2,Junior
+105,Customer Support,2,Junior
+105,customer care,1,Nice To Have
+106,AI,4,Advanced
+106,Python,4,Advanced
+106,LLM,3,Regular
+106,CI/CD,3,Regular
+107,English,Nan,B2
+107,AI,5,Master
+107,Machine Learning,5,Master
+107,Python,4,Advanced
+107,PyTorch,3,Regular
+107,Linux,3,Regular
+107,TensorFlow,2,Junior
+107,Keras,2,Junior
+107,JAX,2,Junior
+107,CI/CD,2,Junior
+107,CUDA,1,Nice To Have
+108,Android,4,Advanced
+108,Kotlin,4,Advanced
+108,Python,4,Advanced
+108,AI,4,Advanced
+109,Machine Learning,5,Master
+109,Ukrainian,5,Master
+109,CVPR,4,Advanced
+109,ICML,4,Advanced
+109,Artificial Intelligence,4,Advanced
+109,ICLR,4,Advanced
+109,English,4,Advanced
+109,NeurIPS,4,Advanced
+109,ECCV,4,Advanced
+109,Large Language Models,3,Regular
+110,Business Analysis,5,Master
+110,GenAI,4,Advanced
+110,Machine Learning,4,Advanced
+110,NLP,4,Advanced
+110,LLM,4,Advanced
+110,PyTorch,4,Advanced
+110,AI,4,Advanced
+110,AI/ML,4,Advanced
+110,TensorFlow,4,Advanced
+110,Python,4,Advanced
+111,ETL,4,Advanced
+111,SQL,4,Advanced
+111,Python,4,Advanced
+111,Machine Learning,3,Regular
+112,n8n,4,Advanced
+112,Make,4,Advanced
+112,Zapier,4,Advanced
+112,Airtable,4,Advanced
+112,REST API,3,Regular
+113,Polish,Nan,B2
+113,English,Nan,B2
+113,Deep Learning,5,Master
+113,Python,5,Master
+113,GenAI,4,Advanced
+113,Azure,4,Advanced
+113,GCP,4,Advanced
+113,Databricks,3,Regular
+114,Langchain,3,Regular
+114,Langgraph,3,Regular
+114,LangFuse,3,Regular
+114,REST API,3,Regular
+114,Prompt Engineering,3,Regular
+114,Docker,2,Junior
+114,Kubernetes,2,Junior
+115,Machine Learning,4,Advanced
+115,Microsoft Azure,4,Advanced
+115,CI/CD,3,Regular
+115,Docker,3,Regular
+115,TensorFlow,3,Regular
+115,Python,3,Regular
+115,Kubernete,3,Regular
+115,PyTorch,2,Junior
+116,Docker,4,Advanced
+116,Azure,4,Advanced
+116,Python,4,Advanced
+116,GenerativeAI,4,Advanced
+117,English,4,Advanced
+117,MS Office,2,Junior
+118,Docker,4,Advanced
+118,TensorFlow,4,Advanced
+118,Python,4,Advanced
+118,Generative AI,4,Advanced
+118,Azure,3,Regular
+118,OpenAI,3,Regular
+119,MLOps,3,Regular
+120,Python,4,Advanced
+120,AI,4,Advanced
+120,Machine Learning,2,Junior
