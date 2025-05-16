@@ -14,6 +14,7 @@ import boto3
 import tempfile
 from dotenv import load_dotenv
 import os
+import pandas as pd
 
 options = webdriver.ChromeOptions()
 options.add_argument("--no-sandbox")
@@ -224,6 +225,10 @@ with open(csv_filename_general, "w", newline="", encoding="utf-8") as file:
     writer.writeheader() 
     writer.writerows(processed_offers)  
 
+excel_filename = csv_filename_general.replace(".csv", ".xlsx")
+df = pd.DataFrame(processed_offers)
+df.to_excel(excel_filename, index=False)
+
 print(f"Data saved in {csv_filename_general} 🎉")
 print( "All skills:", all_skills)
 print("Length of array of all skills:", len(all_skills))
@@ -246,6 +251,10 @@ with open(csv_filename_skills_scores, "w", newline="", encoding="utf-8") as file
     writer.writeheader()  
     writer.writerows(relation_table) 
 
+excel_filename_skills_scores = csv_filename_skills_scores.replace(".csv", ".xlsx")
+df_skills_scores = pd.DataFrame(relation_table)
+df_skills_scores.to_excel(excel_filename_skills_scores, index=False)
+
 load_dotenv() 
 
 AWS_ACCESS_KEY = os.getenv('AWS_ACCESS_KEY')
@@ -264,5 +273,7 @@ s3_client = boto3.client(
 
 response = s3_client.upload_file(csv_filename_general, AWS_S3_BUCKET_NAME, csv_filename_general)
 response = s3_client.upload_file(csv_filename_skills_scores, AWS_S3_BUCKET_NAME, csv_filename_skills_scores)
+response = s3_client.upload_file(excel_filename, AWS_S3_BUCKET_NAME, excel_filename)
+response = s3_client.upload_file(excel_filename_skills_scores, AWS_S3_BUCKET_NAME, excel_filename_skills_scores)
 
 driver.quit()
