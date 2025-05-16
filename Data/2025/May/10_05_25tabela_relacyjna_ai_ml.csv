@@ -1,0 +1,77 @@
+offer_id,skill_name,skill_level,skill_level_name
+0,English,Nan,C1
+0,Machine Learning,5,Master
+0,NLP,5,Master
+0,AI,5,Master
+0,Python,5,Master
+0,AWS,4,Advanced
+1,Polish,Nan,C1
+1,English,Nan,C1
+1,Machine Learning,4,Advanced
+1,Deep Learning,4,Advanced
+1,LLM,3,Regular
+1,Python,3,Regular
+2,English,Nan,B2
+2,NLP,4,Advanced
+2,AI,4,Advanced
+2,Machine Learning,4,Advanced
+2,AWS,3,Regular
+2,Python,3,Regular
+3,English,Nan,B2
+3,Bazy Danych,4,Advanced
+3,TypeScript,4,Advanced
+3,Node.js,4,Advanced
+3,AI,4,Advanced
+3,Java,4,Advanced
+3,JavaScript,4,Advanced
+3,Python,4,Advanced
+3,rag,1,Nice To Have
+4,NLP,4,Advanced
+4,LLMs,4,Advanced
+4,Python,4,Advanced
+4,AI,3,Regular
+5,AWS,4,Advanced
+5,AI,4,Advanced
+5,CI/CD,3,Regular
+5,ETL,3,Regular
+5,SQL,3,Regular
+5,Python,3,Regular
+6,English,Nan,B2
+6,GenAI,4,Advanced
+6,OpenAI,4,Advanced
+6,Langchain,4,Advanced
+6,API Testing,4,Advanced
+6,Python,3,Regular
+7,Polish,Nan,C1
+7,English,Nan,C1
+7,Machine Learning,4,Advanced
+7,Responsible AI,4,Advanced
+7,Clean Code,4,Advanced
+7,Python,4,Advanced
+7,AI models,3,Regular
+8,English,Nan,B2
+8,Machine Learning,5,Master
+8,NLP,5,Master
+8,AI,5,Master
+8,Python,5,Master
+8,AWS,4,Advanced
+9,Polish,Nan,B2
+9,English,Nan,C1
+9,Scrum Master,4,Advanced
+9,AI,2,Junior
+10,Polish,Nan,B2
+10,English,Nan,C1
+10,Product Management,4,Advanced
+11,English,Nan,C1
+11,Polish,Nan,C2
+11,AI,5,Master
+12,Polish,Nan,C2
+12,English,Nan,C1
+12,Apache Hadoop,4,Advanced
+12,Python,4,Advanced
+12,Big Data,4,Advanced
+12,Apache Spark,4,Advanced
+12,Git,3,Regular
+12,SQL,3,Regular
+12,Hive,1,Nice To Have
+12,Bitbucket,1,Nice To Have

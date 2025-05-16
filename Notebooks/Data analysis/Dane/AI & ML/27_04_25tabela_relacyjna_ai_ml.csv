@@ -1,0 +1,120 @@
+offer_id,skill_name,skill_level,skill_level_name
+0,English,Nan,C1
+0,Python,4,Advanced
+0,PyTorch,4,Advanced
+0,TensorFlow,4,Advanced
+0,Hugging Face transformers,4,Advanced
+0,Scikit,4,Advanced
+0,Keras,4,Advanced
+0,Machine Learning,4,Advanced
+0,LLM,4,Advanced
+0,Distributed systems,3,Regular
+1,GenAI,3,Regular
+1,Cloud,3,Regular
+1,Java,3,Regular
+1,Python,3,Regular
+1,MLOps,3,Regular
+2,GenAI,3,Regular
+2,Cloud,3,Regular
+2,Java,3,Regular
+2,Python,3,Regular
+2,MLOps,3,Regular
+3,Python,5,Master
+3,AWS,4,Advanced
+3,AI,4,Advanced
+3,Data Science,4,Advanced
+3,NLP,3,Regular
+3,LLM,3,Regular
+3,Docker,3,Regular
+4,English,Nan,B2
+4,Power BI,2,Junior
+4,Data,2,Junior
+4,SQL,2,Junior
+4,PostgreSQL,1,Nice To Have
+4,AI,1,Nice To Have
+4,BigQuery,1,Nice To Have
+4,Google Cloud,1,Nice To Have
+5,English,Nan,B2
+5,Power BI,2,Junior
+5,Data,2,Junior
+5,SQL,2,Junior
+5,PostgreSQL,1,Nice To Have
+5,AI,1,Nice To Have
+5,BigQuery,1,Nice To Have
+5,Google Cloud,1,Nice To Have
+6,LLM,4,Advanced
+6,AI,4,Advanced
+6,Python,4,Advanced
+6,PyTorch,3,Regular
+7,Python,5,Master
+7,Microsoft Azure,4,Advanced
+7,AI,4,Advanced
+7,SQL,4,Advanced
+7,DevOps tools,3,Regular
+8,Machine Learning,1,Nice To Have
+8,DevOps,1,Nice To Have
+8,Cloud,1,Nice To Have
+8,CI/CD,1,Nice To Have
+8,Angular,1,Nice To Have
+8,AI,1,Nice To Have
+8,Java,1,Nice To Have
+8,JavaScript,1,Nice To Have
+8,Python,1,Nice To Have
+9,English,Nan,B2
+9,Power BI,2,Junior
+9,Data,2,Junior
+9,SQL,2,Junior
+9,PostgreSQL,1,Nice To Have
+9,AI,1,Nice To Have
+9,BigQuery,1,Nice To Have
+9,Google Cloud,1,Nice To Have
+10,English,Nan,C1
+10,PySpark,4,Advanced
+10,AI/ML,4,Advanced
+10,Python,4,Advanced
+10,GenAI,3,Regular
+10,RAG Patterns,3,Regular
+10,Azure,3,Regular
+10,Databricks,3,Regular
+10,AI,3,Regular
+10,Machine Learning,3,Regular
+11,Polish,Nan,C2
+11,Kubernetes,4,Advanced
+11,Python,4,Advanced
+11,GCP,4,Advanced
+12,AI,3,Regular
+12,Machine Learning,3,Regular
+12,Microsoft AI Builder,3,Regular
+12,Copilot,3,Regular
+12,Microsoft Dynamics 365,3,Regular
+12,.Net,3,Regular
+12,JavaScript,3,Regular
+12,SQL,3,Regular
+12,Azure,3,Regular
+12,PowerApps,3,Regular
+13,English,Nan,C1
+13,AWS,3,Regular
+13,ML OPS,3,Regular
+13,GitLab,3,Regular
+13,Python,3,Regular
+14,English,Nan,B2
+14,Polish,Nan,B2
+14,AI,5,Master
+14,ML,5,Master
+14,rag,5,Master
+14,MML,5,Master
+14,GenAI,4,Advanced
+15,English,Nan,B2
+15,Polish,Nan,B2
+15,AI,5,Master
+15,ML,5,Master
+15,rag,4,Advanced
+15,LLM,4,Advanced
+15,Gen AI,4,Advanced
+16,VBA,3,Regular
+16,Data,3,Regular
+16,Analytics,3,Regular
+16,Excel APIs,3,Regular
+16,Python,3,Regular
+16,Microsoft Office Excel,3,Regular
+16,Machine Learning,1,Nice To Have
